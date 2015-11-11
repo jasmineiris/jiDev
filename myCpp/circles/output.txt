@@ -1,0 +1,44 @@
+File: output.txt
+Author: Jasmine Farrell
+Date: Oct. 28th, 2015
+Course: cs110b
+
+
+ * Enter center x:
+ * 4
+ * Enter center y:
+ * 8
+ * Enter radius:
+ * 4
+ * Your area is 50.2655
+ * Enter new center x:
+ * 2
+ * Enter new center y:
+ * 3
+ * Enter new radius:
+ * 2
+ * Checking if point is in circle. Enter point x:
+ * 0
+ * Enter point y:
+ * 0
+ * Your values are inside the CIRCLE! WOOHOO!
+ * $ ./a.out
+ * Enter center x:
+ * 2
+ * Enter center y:
+ * 8
+ * Enter radius:
+ * 2
+ * Your area is 12.5664
+ * Enter new center x:
+ * 2
+ * Enter new center y:
+ * 6
+ * Enter new radius:
+ * 3
+ * Checking if point is in circle. Enter point x:
+ * 8
+ * Enter point y:
+ * 9
+ * Your values are outside the circle. Enter new values.*/
+ 

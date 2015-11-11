@@ -1,0 +1,47 @@
+File: output.txt
+Author: Jasmine Farrell
+Date: Oct. 28th 2015
+Course: cs110b
+
+jasminefarrell at Jasmines-MacBook-Pro in ~/class_dev/num_guesser
+$ ./a.out
+Welcome to Number Guesser Game!
+What is your lower boundary you'd like to play at?
+1
+What is your higher boundary you'd like to play at?
+100
+Think of a number between your lower and higher boundaries. 
+It is 50? (h, l, c):
+h
+It is 75? (h, l, c):
+h
+It is 87? (h, l, c):
+l
+It is 81? (h, l, c):
+h
+It is 84? (h, l, c):
+l
+It is 82? (h, l, c):
+h
+It is 83? (h, l, c):
+c
+Do you want to play again?(y/n)
+y
+It is 50? (h, l, c):
+l
+It is 25? (h, l, c):
+h
+It is 37? (h, l, c):
+h
+It is 43? (h, l, c):
+h
+It is 46? (h, l, c):
+l
+It is 44? (h, l, c):
+h
+It is 45? (h, l, c):
+c
+Do you want to play again?(y/n)
+n
+
+jasminefarrell at Jasmines-MacBook-Pro in ~/class_dev/num_guesser
