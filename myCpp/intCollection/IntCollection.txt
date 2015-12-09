@@ -1,0 +1,31 @@
+File: IntCollection.txt
+Author: Jasmine Farrell
+Date: Nov. 19th 2015
+course: cs110b
+
+
+jasminefarrell at Jasmines-MacBook-Pro in ~/dev/git/myDev/myCpp/intCollection on master [?]
+$ ./a.out
+45
+-210
+77
+2
+-21
+42
+7
+4
+7
+9
+10
+Not Equal!
+45
+-210
+77
+2
+-21
+42
+7
+10
+4
+84
+Not Equal!
